@@ -6,3 +6,5 @@
 :mortar_board: I am in my 4th semester pursuing an advanced diploma in Computer Programming & Analysis (CPA) from Seneca.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=okuti2&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+[![Toyosi's github stats](https://github-readme-stats.vercel.app/api?username=okuti2)](https://github.com/okuti2/github-readme-stats)
