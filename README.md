@@ -7,7 +7,8 @@
 :mortar_board: I am in my 4th semester pursuing an advanced diploma in Computer Programming & Analysis (CPA) from Seneca.
 
 :woman: My Pronouns: She/Her  
-Feel free to connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toyosi-kuti/) 
+
+Connect with me! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toyosi-kuti/) 
 
 
 # 📊 GitHub Stats:
