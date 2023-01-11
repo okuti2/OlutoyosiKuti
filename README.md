@@ -4,3 +4,5 @@
 <b> I am a software developer in Toronto, Canada. I also have an interest in mechatronics, machine learning and data engineering </b>
 
 :mortar_board: I am in my 4th semester pursuing an advanced diploma in Computer Programming & Analysis (CPA) from Seneca.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okuti2&hide=javascript,css,scss,html&theme=tokyonight)
