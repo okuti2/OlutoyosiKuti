@@ -4,11 +4,11 @@
 
 <b> I am a software developer in Toronto, Canada. I also have an interest in mechatronics, machine learning and data engineering </b>
 
-:mortar_board: I am in my 4th semester pursuing an advanced diploma in Computer Programming & Analysis (CPA) from Seneca.
+<b>:mortar_board: I am in my 4th semester pursuing an advanced diploma in Computer Programming & Analysis (CPA) from Seneca.</b>
 
-:woman: My Pronouns: She/Her  
+<b>:woman: My Pronouns: She/Her  </b>
 
-Connect with me! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toyosi-kuti/) 
+<b>Connect with me! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toyosi-kuti/)</b>
 
 
 # 📊 GitHub Stats:
