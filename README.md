@@ -8,6 +8,6 @@
 
 :woman: My Pronouns: She/Her  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=okuti2&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=okuti2&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light)
 
-[![Toyosi's github stats](https://github-readme-stats.vercel.app/api?username=okuti2&theme=tokyonight)](https://github.com/okuti2/github-readme-stats)
+[![Toyosi's github stats](https://github-readme-stats.vercel.app/api?username=okuti2&theme=light)](https://github.com/okuti2/github-readme-stats)
