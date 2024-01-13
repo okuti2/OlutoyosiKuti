@@ -4,7 +4,7 @@
 
 <b>:computer: I am a software developer in Toronto, Canada. I also have an interest in mechatronics, machine learning and data engineering </b>
 
-<b>:mortar_board: I am in my 4th semester pursuing an advanced diploma in Computer Programming & Analysis (CPA) from Seneca.</b>
+<b>:mortar_board: I am in my 5th semester pursuing an advanced diploma in Computer Programming & Analysis (CPA) from Seneca.</b>
 
 <b>:woman: My Pronouns: She/Her  </b>
 
