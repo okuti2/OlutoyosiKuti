@@ -2,7 +2,7 @@
 <h1 align="center">:dizzy: Hi, I'm Toyosi Kuti<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> 
 
-<b>:computer: I am a software developer in Toronto, Canada. I also have an interest in mechatronics, machine learning and data engineering </b>
+<b>:computer: I am a software developer in Toronto, Canada. I also have an interest in mechatronics, machine learning and cloud computing </b>
 
 <b>:mortar_board: I am in my 6th semester pursuing an advanced diploma in Computer Programming & Analysis (CPA) from Seneca.</b>
 
